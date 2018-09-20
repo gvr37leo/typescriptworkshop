@@ -1,0 +1,1 @@
+//tsc main.ts --inlineSourceMap --watch --target es6
