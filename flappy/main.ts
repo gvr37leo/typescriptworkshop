@@ -6,7 +6,7 @@ var screensize = new Vector(800,500)
 var ccreturn = createCanvas(screensize.x,screensize.y)
 var canvas = ccreturn.canvas
 var ctxt = ccreturn.ctxt
-https://github.com/gvr37leo/typescriptworkshop.git
+
 loop((dt) => {
     dt /= 1000
     ctxt.clearRect(0,0,screensize.x,screensize.y)
